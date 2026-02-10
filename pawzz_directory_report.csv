@@ -1,0 +1,501 @@
+listing_id,source,name,category,phone,address,city,state,proof,status,notes
+1,Community Referral,Pet Pet Boarding 1,Pet Boarding,9852148024,NA,Noida,Uttar Pradesh,Justdial page,Ready,
+2,Google Maps,Care Pet Shop 2,Pet Shop,+91 6549496895,NA,Delhi,Delhi,WhatsApp message,Submitted,
+3,WhatsApp Submission,Tails Pet Trainer 3,Pet Trainer,NA,Near main road,Jaipur,Rajasthan,Instagram page,Submitted,Address incomplete
+4,Justdial,Pet Pet Trainer 4,Pet Trainer,9813727672,Residential area,Bangalore,Karnataka,Instagram page,Submitted,Possible duplicate
+5,Justdial,Paws Feeder 5,Feeder,9415172416,Opposite park,Jaipur,Rajasthan,Maps listing,Submitted,Phone missing
+6,WhatsApp Submission,Happy Pet Groomer 6,Pet Groomer,+91 7698891595,Near main road,Bhopal,Madhya Pradesh,WhatsApp message,Needs Review,
+7,Google Maps,Tails Vet Clinic 7,Vet Clinic,NA,Opposite park,Indore,Madhya Pradesh,WhatsApp message,Verified,Phone missing
+8,Community Referral,Tails Vet Clinic 8,Vet Clinic,+91 7904294740,Near main road,Gurgaon,Haryana,Justdial page,Needs Fix,Possible duplicate
+9,Instagram,Care Pet Groomer 9,Pet Groomer,+91 8335800260,Near main road,Indore,Madhya Pradesh,Maps listing,Verified,
+10,Justdial,Care Pet Boarding 10,Pet Boarding,NA,Near main road,Delhi,Delhi,WhatsApp message,Needs Fix,Possible duplicate
+11,Facebook Group,Pet Vet Clinic 11,Vet Clinic,9263343571,Sector area,Pune,Maharashtra,WhatsApp message,Ready,Address incomplete
+12,Justdial,Pet Pet Groomer 12,Pet Groomer,9773198691,Residential area,Chennai,Tamil Nadu,Instagram page,Verified,Phone missing
+13,Instagram,Trust Vet Hospital 13,Vet Hospital,+91 7884669714,Residential area,Bangalore,Karnataka,Maps listing,Verified,Phone missing
+14,Instagram,Trust Pet Trainer 14,Pet Trainer,+91 8291800170,Sector area,Mumbai,Maharashtra,Justdial page,Submitted,Phone missing
+15,Facebook Group,Paws NGO 15,NGO,+91 6537802351,Near main road,Bangalore,Karnataka,Maps listing,Needs Fix,Possible duplicate
+16,Community Referral,Paws Pet Trainer 16,Pet Trainer,NA,NA,Mumbai,Maharashtra,WhatsApp message,Ready,
+17,Instagram,Care Feeder 17,Feeder,9553830254,Residential area,Gurgaon,Haryana,Maps listing,Verified,Phone missing
+18,WhatsApp Submission,Happy Vet Hospital 18,Vet Hospital,9603316115,NA,Bhopal,Madhya Pradesh,WhatsApp message,Needs Fix,Address incomplete
+19,Justdial,Tails NGO 19,NGO,9723213585,Opposite park,Gurgaon,Haryana,Maps listing,Needs Review,Address incomplete
+20,Community Referral,Tails Pet Boarding 20,Pet Boarding,NA,Residential area,Mumbai,Maharashtra,WhatsApp message,Verified,
+21,Justdial,Animal Vet Hospital 21,Vet Hospital,9901632110,Residential area,Mumbai,Maharashtra,Justdial page,Needs Fix,Phone missing
+22,Facebook Group,Animal Vet Hospital 22,Vet Hospital,NA,Sector area,Indore,Madhya Pradesh,Justdial page,Ready,Phone missing
+23,Google Maps,Tails Pet Shop 23,Pet Shop,9846551231,Near main road,Chennai,Tamil Nadu,Justdial page,Needs Review,Phone missing
+24,Instagram,Care Feeder 24,Feeder,9900746376,Residential area,Pune,Maharashtra,Justdial page,Needs Fix,
+25,Community Referral,Tails Pet Shop 25,Pet Shop,NA,Opposite park,Noida,Uttar Pradesh,Maps listing,Ready,
+26,WhatsApp Submission,Happy Pet Groomer 26,Pet Groomer,9756208600,Opposite park,Mumbai,Maharashtra,Referral,Ready,
+27,Google Maps,Care Feeder 27,Feeder,9492603489,Sector area,Jaipur,Rajasthan,WhatsApp message,Verified,Possible duplicate
+28,Justdial,Paws Feeder 28,Feeder,+91 6468537202,Near main road,Mumbai,Maharashtra,Referral,Needs Review,Phone missing
+29,WhatsApp Submission,Happy Vet Hospital 29,Vet Hospital,NA,Residential area,Pune,Maharashtra,Justdial page,Verified,Phone missing
+30,Community Referral,Pet Feeder 30,Feeder,9260987722,Near main road,Pune,Maharashtra,Justdial page,Ready,Phone missing
+31,Facebook Group,Care NGO 31,NGO,+91 9656918162,Opposite park,Gurgaon,Haryana,Maps listing,Verified,
+32,Community Referral,Care Pet Shop 32,Pet Shop,9396038766,Opposite park,Chennai,Tamil Nadu,Maps listing,Submitted,Phone missing
+33,Facebook Group,Paws NGO 33,NGO,9569027728,NA,Jaipur,Rajasthan,Justdial page,Verified,Possible duplicate
+34,WhatsApp Submission,Happy NGO 34,NGO,9848841781,Near main road,Mumbai,Maharashtra,Justdial page,Ready,Phone missing
+35,Facebook Group,Tails NGO 35,NGO,NA,Near main road,Mumbai,Maharashtra,Justdial page,Submitted,Phone missing
+36,Justdial,Tails Vet Clinic 36,Vet Clinic,NA,Opposite park,Gurgaon,Haryana,Maps listing,Needs Fix,Address incomplete
+37,Justdial,Animal NGO 37,NGO,NA,Near main road,Chennai,Tamil Nadu,WhatsApp message,Ready,
+38,WhatsApp Submission,Care NGO 38,NGO,+91 8689813582,Sector area,Gurgaon,Haryana,Maps listing,Ready,
+39,Justdial,Pet Pet Boarding 39,Pet Boarding,NA,Sector area,Delhi,Delhi,Justdial page,Submitted,Address incomplete
+40,Community Referral,Trust Pet Trainer 40,Pet Trainer,NA,Opposite park,Mumbai,Maharashtra,Justdial page,Verified,
+41,Facebook Group,Tails Pet Trainer 41,Pet Trainer,NA,NA,Delhi,Delhi,Justdial page,Needs Fix,
+42,Facebook Group,Pet Pet Trainer 42,Pet Trainer,9119619947,NA,Bangalore,Karnataka,Maps listing,Needs Fix,Phone missing
+43,Justdial,Trust Pet Groomer 43,Pet Groomer,NA,Residential area,Gurgaon,Haryana,Maps listing,Needs Fix,
+44,Justdial,Care Pet Trainer 44,Pet Trainer,+91 6768421665,Sector area,Jaipur,Rajasthan,Justdial page,Needs Review,Address incomplete
+45,Google Maps,Trust Vet Hospital 45,Vet Hospital,9323074312,Opposite park,Chennai,Tamil Nadu,WhatsApp message,Needs Fix,Phone missing
+46,Community Referral,Pet Pet Trainer 46,Pet Trainer,+91 8573766365,Sector area,Gurgaon,Haryana,WhatsApp message,Submitted,Address incomplete
+47,Justdial,Happy NGO 47,NGO,+91 8286310606,Residential area,Pune,Maharashtra,Instagram page,Submitted,Possible duplicate
+48,WhatsApp Submission,Care Pet Trainer 48,Pet Trainer,NA,Opposite park,Chennai,Tamil Nadu,Maps listing,Ready,Address incomplete
+49,WhatsApp Submission,Tails Pet Trainer 49,Pet Trainer,+91 9424223848,Residential area,Noida,Uttar Pradesh,Maps listing,Ready,Phone missing
+50,Instagram,Happy Pet Shop 50,Pet Shop,NA,Sector area,Noida,Uttar Pradesh,WhatsApp message,Submitted,Possible duplicate
+51,Google Maps,Trust Pet Trainer 51,Pet Trainer,9276772958,Opposite park,Bhopal,Madhya Pradesh,Referral,Needs Fix,Possible duplicate
+52,Facebook Group,Pet Pet Boarding 52,Pet Boarding,+91 9907458636,Residential area,Mumbai,Maharashtra,Maps listing,Ready,Phone missing
+53,WhatsApp Submission,Paws Pet Shop 53,Pet Shop,+91 7310848406,Near main road,Delhi,Delhi,Justdial page,Submitted,
+54,Community Referral,Pet Pet Shop 54,Pet Shop,+91 7606534163,Opposite park,Pune,Maharashtra,Instagram page,Verified,Possible duplicate
+55,Justdial,Pet NGO 55,NGO,NA,Opposite park,Bhopal,Madhya Pradesh,Justdial page,Needs Fix,Phone missing
+56,Google Maps,Care Pet Boarding 56,Pet Boarding,NA,Sector area,Bangalore,Karnataka,Referral,Submitted,Possible duplicate
+57,WhatsApp Submission,Trust Vet Hospital 57,Vet Hospital,+91 8645115241,Residential area,Delhi,Delhi,Maps listing,Needs Review,
+58,WhatsApp Submission,Paws NGO 58,NGO,+91 9710983326,Opposite park,Bhopal,Madhya Pradesh,Maps listing,Submitted,Possible duplicate
+59,Facebook Group,Pet Vet Clinic 59,Vet Clinic,NA,NA,Gurgaon,Haryana,Instagram page,Submitted,Address incomplete
+60,Justdial,Pet Pet Boarding 60,Pet Boarding,NA,Sector area,Mumbai,Maharashtra,Justdial page,Verified,Possible duplicate
+61,WhatsApp Submission,Paws Pet Boarding 61,Pet Boarding,+91 6813099730,Residential area,Indore,Madhya Pradesh,Instagram page,Ready,Phone missing
+62,Google Maps,Trust NGO 62,NGO,NA,NA,Bangalore,Karnataka,Referral,Submitted,Phone missing
+63,WhatsApp Submission,Trust Pet Shop 63,Pet Shop,NA,NA,Gurgaon,Haryana,WhatsApp message,Needs Fix,
+64,Instagram,Animal Pet Groomer 64,Pet Groomer,NA,Residential area,Bangalore,Karnataka,WhatsApp message,Ready,Possible duplicate
+65,WhatsApp Submission,Animal Pet Boarding 65,Pet Boarding,+91 9947957330,NA,Pune,Maharashtra,Referral,Needs Review,Phone missing
+66,Justdial,Trust Pet Shop 66,Pet Shop,9323973233,Opposite park,Indore,Madhya Pradesh,Referral,Needs Fix,Phone missing
+67,Community Referral,Care Pet Trainer 67,Pet Trainer,+91 9628285366,Sector area,Bangalore,Karnataka,Instagram page,Verified,Possible duplicate
+68,Google Maps,Paws Pet Boarding 68,Pet Boarding,NA,Sector area,Mumbai,Maharashtra,Referral,Needs Fix,Possible duplicate
+69,Justdial,Animal NGO 69,NGO,9678040369,Residential area,Bhopal,Madhya Pradesh,Instagram page,Submitted,Possible duplicate
+70,Facebook Group,Animal Vet Clinic 70,Vet Clinic,9365655942,NA,Bangalore,Karnataka,WhatsApp message,Needs Fix,
+71,Facebook Group,Animal NGO 71,NGO,+91 6275110518,Opposite park,Pune,Maharashtra,Maps listing,Ready,Phone missing
+72,Google Maps,Care Pet Groomer 72,Pet Groomer,9812409074,Sector area,Jaipur,Rajasthan,Maps listing,Ready,
+73,Justdial,Trust Pet Trainer 73,Pet Trainer,NA,Opposite park,Mumbai,Maharashtra,WhatsApp message,Verified,Address incomplete
+74,Facebook Group,Happy NGO 74,NGO,+91 8240321099,Sector area,Chennai,Tamil Nadu,Maps listing,Needs Review,Phone missing
+75,Community Referral,Pet Pet Boarding 75,Pet Boarding,NA,Residential area,Noida,Uttar Pradesh,WhatsApp message,Verified,
+76,Justdial,Trust Pet Trainer 76,Pet Trainer,+91 8282675621,Opposite park,Chennai,Tamil Nadu,Referral,Needs Review,Phone missing
+77,Justdial,Pet Pet Boarding 77,Pet Boarding,9406565079,Opposite park,Jaipur,Rajasthan,Referral,Verified,Possible duplicate
+78,Facebook Group,Pet Pet Boarding 78,Pet Boarding,+91 7281077862,Sector area,Chennai,Tamil Nadu,Referral,Verified,Address incomplete
+79,Justdial,Care Vet Clinic 79,Vet Clinic,9263758768,Near main road,Noida,Uttar Pradesh,Instagram page,Verified,Phone missing
+80,Justdial,Trust Pet Shop 80,Pet Shop,9744733006,Near main road,Bangalore,Karnataka,Justdial page,Needs Fix,Phone missing
+81,Instagram,Pet Feeder 81,Feeder,9474670137,Residential area,Gurgaon,Haryana,Instagram page,Needs Fix,Phone missing
+82,WhatsApp Submission,Happy Pet Groomer 82,Pet Groomer,9924879398,Sector area,Jaipur,Rajasthan,Justdial page,Ready,
+83,Community Referral,Care Feeder 83,Feeder,9818098781,Residential area,Jaipur,Rajasthan,Maps listing,Submitted,Address incomplete
+84,WhatsApp Submission,Care NGO 84,NGO,NA,Opposite park,Bangalore,Karnataka,Justdial page,Submitted,Phone missing
+85,WhatsApp Submission,Pet Feeder 85,Feeder,NA,Opposite park,Delhi,Delhi,WhatsApp message,Ready,Phone missing
+86,Facebook Group,Care Vet Clinic 86,Vet Clinic,+91 6428430352,Sector area,Bangalore,Karnataka,Instagram page,Verified,Possible duplicate
+87,WhatsApp Submission,Paws Vet Hospital 87,Vet Hospital,+91 7042056318,Sector area,Jaipur,Rajasthan,Maps listing,Needs Review,Phone missing
+88,WhatsApp Submission,Care Feeder 88,Feeder,NA,Opposite park,Pune,Maharashtra,Maps listing,Ready,Phone missing
+89,WhatsApp Submission,Pet NGO 89,NGO,9780619748,Near main road,Chennai,Tamil Nadu,Maps listing,Submitted,Phone missing
+90,Justdial,Tails Pet Shop 90,Pet Shop,+91 7561781024,Residential area,Delhi,Delhi,Maps listing,Needs Fix,
+91,Google Maps,Pet Pet Groomer 91,Pet Groomer,9569872714,NA,Pune,Maharashtra,Referral,Verified,Possible duplicate
+92,Justdial,Trust Vet Hospital 92,Vet Hospital,NA,Near main road,Delhi,Delhi,Maps listing,Ready,Possible duplicate
+93,Instagram,Trust Vet Hospital 93,Vet Hospital,+91 7238959801,Sector area,Bhopal,Madhya Pradesh,Maps listing,Needs Fix,Possible duplicate
+94,Facebook Group,Trust Pet Shop 94,Pet Shop,NA,Opposite park,Bhopal,Madhya Pradesh,Referral,Verified,
+95,Instagram,Tails NGO 95,NGO,NA,Residential area,Pune,Maharashtra,WhatsApp message,Verified,Possible duplicate
+96,Facebook Group,Pet Feeder 96,Feeder,+91 7026218474,Residential area,Gurgaon,Haryana,Instagram page,Needs Fix,Possible duplicate
+97,Community Referral,Trust Vet Hospital 97,Vet Hospital,9266056806,Opposite park,Delhi,Delhi,Referral,Needs Fix,Address incomplete
+98,Justdial,Pet Pet Shop 98,Pet Shop,NA,NA,Gurgaon,Haryana,Referral,Needs Fix,Phone missing
+99,Community Referral,Paws Pet Shop 99,Pet Shop,+91 7181275274,Sector area,Noida,Uttar Pradesh,Maps listing,Verified,
+100,Community Referral,Trust NGO 100,NGO,9907093019,Opposite park,Chennai,Tamil Nadu,Referral,Needs Review,Possible duplicate
+101,Facebook Group,Paws Pet Shop 101,Pet Shop,+91 7461554420,Opposite park,Pune,Maharashtra,Justdial page,Ready,Address incomplete
+102,Google Maps,Pet Pet Shop 102,Pet Shop,9488365979,Near main road,Delhi,Delhi,Maps listing,Needs Review,
+103,Community Referral,Tails Pet Boarding 103,Pet Boarding,9507007905,Residential area,Jaipur,Rajasthan,Justdial page,Ready,
+104,Google Maps,Pet Pet Trainer 104,Pet Trainer,NA,Near main road,Chennai,Tamil Nadu,Maps listing,Ready,Phone missing
+105,WhatsApp Submission,Happy NGO 105,NGO,+91 9508224629,Near main road,Bangalore,Karnataka,Instagram page,Needs Review,Phone missing
+106,Instagram,Pet Pet Groomer 106,Pet Groomer,9563372661,NA,Pune,Maharashtra,Maps listing,Submitted,
+107,Community Referral,Care Vet Clinic 107,Vet Clinic,NA,Near main road,Delhi,Delhi,Referral,Needs Review,Possible duplicate
+108,Community Referral,Pet Pet Trainer 108,Pet Trainer,+91 8941698125,Residential area,Jaipur,Rajasthan,Instagram page,Verified,Address incomplete
+109,Community Referral,Happy Vet Hospital 109,Vet Hospital,+91 9011833217,Sector area,Mumbai,Maharashtra,Referral,Submitted,Phone missing
+110,Facebook Group,Pet Pet Trainer 110,Pet Trainer,NA,Opposite park,Noida,Uttar Pradesh,Justdial page,Submitted,Address incomplete
+111,Instagram,Care Vet Hospital 111,Vet Hospital,+91 7345760515,Near main road,Indore,Madhya Pradesh,Justdial page,Needs Fix,Address incomplete
+112,Community Referral,Happy NGO 112,NGO,NA,NA,Bhopal,Madhya Pradesh,Referral,Needs Fix,
+113,Justdial,Paws Pet Trainer 113,Pet Trainer,NA,Near main road,Chennai,Tamil Nadu,WhatsApp message,Ready,
+114,Community Referral,Tails Feeder 114,Feeder,NA,NA,Chennai,Tamil Nadu,Instagram page,Submitted,Address incomplete
+115,Community Referral,Trust NGO 115,NGO,NA,Near main road,Bhopal,Madhya Pradesh,Instagram page,Submitted,Address incomplete
+116,Community Referral,Happy Pet Trainer 116,Pet Trainer,9835453583,Near main road,Noida,Uttar Pradesh,WhatsApp message,Needs Fix,Phone missing
+117,Community Referral,Trust Vet Hospital 117,Vet Hospital,9494199550,NA,Chennai,Tamil Nadu,Referral,Needs Review,Phone missing
+118,Instagram,Paws Vet Clinic 118,Vet Clinic,NA,Near main road,Chennai,Tamil Nadu,WhatsApp message,Needs Fix,Phone missing
+119,WhatsApp Submission,Care Pet Groomer 119,Pet Groomer,9298595856,Residential area,Noida,Uttar Pradesh,Justdial page,Verified,Possible duplicate
+120,Justdial,Animal Feeder 120,Feeder,NA,NA,Delhi,Delhi,Referral,Ready,Phone missing
+121,Google Maps,Tails NGO 121,NGO,NA,Opposite park,Gurgaon,Haryana,Maps listing,Needs Fix,Possible duplicate
+122,Community Referral,Animal Pet Boarding 122,Pet Boarding,9585975135,Residential area,Noida,Uttar Pradesh,Justdial page,Needs Fix,
+123,Facebook Group,Tails NGO 123,NGO,9969910943,NA,Bhopal,Madhya Pradesh,Instagram page,Needs Fix,Phone missing
+124,Google Maps,Care Pet Trainer 124,Pet Trainer,+91 6948696885,Near main road,Mumbai,Maharashtra,Referral,Needs Fix,
+125,Google Maps,Tails Vet Clinic 125,Vet Clinic,9889738614,Near main road,Bangalore,Karnataka,WhatsApp message,Needs Fix,
+126,Google Maps,Happy Feeder 126,Feeder,NA,NA,Gurgaon,Haryana,Justdial page,Needs Fix,Address incomplete
+127,Facebook Group,Paws Feeder 127,Feeder,NA,Residential area,Bangalore,Karnataka,Maps listing,Verified,Possible duplicate
+128,Google Maps,Paws NGO 128,NGO,9791062975,NA,Bangalore,Karnataka,Justdial page,Ready,
+129,Justdial,Paws Pet Groomer 129,Pet Groomer,+91 6923601647,Residential area,Gurgaon,Haryana,Maps listing,Needs Fix,Phone missing
+130,Facebook Group,Animal Vet Hospital 130,Vet Hospital,9554361485,NA,Indore,Madhya Pradesh,Justdial page,Needs Review,
+131,Community Referral,Care Pet Shop 131,Pet Shop,+91 6505909966,NA,Pune,Maharashtra,WhatsApp message,Verified,
+132,Google Maps,Tails Pet Shop 132,Pet Shop,9154896118,Sector area,Bhopal,Madhya Pradesh,Maps listing,Submitted,
+133,Instagram,Happy Pet Trainer 133,Pet Trainer,9830203445,Residential area,Delhi,Delhi,Maps listing,Verified,Address incomplete
+134,Instagram,Pet Pet Trainer 134,Pet Trainer,NA,Near main road,Gurgaon,Haryana,WhatsApp message,Submitted,
+135,Justdial,Animal NGO 135,NGO,+91 8140457257,Opposite park,Noida,Uttar Pradesh,Referral,Verified,Address incomplete
+136,Facebook Group,Animal Vet Hospital 136,Vet Hospital,NA,Near main road,Mumbai,Maharashtra,Referral,Needs Fix,
+137,Google Maps,Pet Feeder 137,Feeder,9993738814,Near main road,Bhopal,Madhya Pradesh,Justdial page,Needs Review,Address incomplete
+138,WhatsApp Submission,Tails Vet Hospital 138,Vet Hospital,9771013500,Near main road,Bangalore,Karnataka,WhatsApp message,Verified,
+139,Instagram,Tails Vet Clinic 139,Vet Clinic,+91 6985872678,NA,Bhopal,Madhya Pradesh,Maps listing,Ready,
+140,Community Referral,Animal Vet Hospital 140,Vet Hospital,9898174131,Sector area,Pune,Maharashtra,Maps listing,Verified,
+141,Facebook Group,Care Vet Clinic 141,Vet Clinic,9639244624,NA,Noida,Uttar Pradesh,WhatsApp message,Verified,Possible duplicate
+142,Instagram,Care Vet Hospital 142,Vet Hospital,+91 8758217663,Residential area,Jaipur,Rajasthan,Justdial page,Ready,Phone missing
+143,Facebook Group,Trust NGO 143,NGO,+91 9338809721,Residential area,Noida,Uttar Pradesh,Maps listing,Ready,Possible duplicate
+144,Facebook Group,Pet Pet Boarding 144,Pet Boarding,NA,NA,Bhopal,Madhya Pradesh,WhatsApp message,Needs Fix,Address incomplete
+145,Instagram,Animal Pet Trainer 145,Pet Trainer,+91 9090288784,Near main road,Gurgaon,Haryana,Referral,Needs Fix,Possible duplicate
+146,Facebook Group,Care Pet Boarding 146,Pet Boarding,9664933784,NA,Mumbai,Maharashtra,Instagram page,Needs Review,Address incomplete
+147,Google Maps,Happy Vet Clinic 147,Vet Clinic,+91 9619496675,Sector area,Bhopal,Madhya Pradesh,WhatsApp message,Verified,
+148,Facebook Group,Pet Pet Boarding 148,Pet Boarding,NA,Near main road,Pune,Maharashtra,Justdial page,Submitted,Possible duplicate
+149,Facebook Group,Animal Pet Trainer 149,Pet Trainer,9366240030,NA,Delhi,Delhi,Justdial page,Ready,Possible duplicate
+150,Instagram,Trust Feeder 150,Feeder,NA,Opposite park,Bhopal,Madhya Pradesh,Justdial page,Submitted,
+151,Community Referral,Care Feeder 151,Feeder,NA,Opposite park,Noida,Uttar Pradesh,Referral,Needs Review,Phone missing
+152,Facebook Group,Tails Pet Shop 152,Pet Shop,+91 8138060287,Opposite park,Noida,Uttar Pradesh,Referral,Submitted,Address incomplete
+153,Instagram,Tails Pet Trainer 153,Pet Trainer,+91 7487366125,Near main road,Gurgaon,Haryana,Maps listing,Ready,Address incomplete
+154,Justdial,Happy Pet Boarding 154,Pet Boarding,+91 9430329731,Opposite park,Delhi,Delhi,Instagram page,Ready,
+155,WhatsApp Submission,Happy Pet Trainer 155,Pet Trainer,9986192404,Sector area,Jaipur,Rajasthan,Referral,Needs Fix,Phone missing
+156,Facebook Group,Care NGO 156,NGO,9220680707,Near main road,Jaipur,Rajasthan,Instagram page,Submitted,Address incomplete
+157,Facebook Group,Paws Pet Boarding 157,Pet Boarding,9176710664,Sector area,Pune,Maharashtra,Justdial page,Needs Fix,Phone missing
+158,WhatsApp Submission,Tails Pet Groomer 158,Pet Groomer,9534235106,Residential area,Delhi,Delhi,Justdial page,Submitted,
+159,Google Maps,Pet Pet Trainer 159,Pet Trainer,9943457608,Near main road,Pune,Maharashtra,Referral,Ready,Address incomplete
+160,Instagram,Trust Pet Groomer 160,Pet Groomer,NA,Near main road,Jaipur,Rajasthan,Justdial page,Needs Fix,Phone missing
+161,Google Maps,Pet Pet Groomer 161,Pet Groomer,NA,Near main road,Chennai,Tamil Nadu,Maps listing,Needs Fix,
+162,Facebook Group,Paws Pet Boarding 162,Pet Boarding,+91 8875149075,Sector area,Noida,Uttar Pradesh,Referral,Needs Fix,
+163,Justdial,Trust Pet Groomer 163,Pet Groomer,+91 7646967168,Sector area,Jaipur,Rajasthan,Justdial page,Ready,Address incomplete
+164,Justdial,Pet NGO 164,NGO,9509603295,Opposite park,Bhopal,Madhya Pradesh,Maps listing,Needs Review,Phone missing
+165,WhatsApp Submission,Pet Vet Clinic 165,Vet Clinic,+91 8674002373,Near main road,Bangalore,Karnataka,Justdial page,Needs Fix,
+166,Facebook Group,Paws Pet Groomer 166,Pet Groomer,9995250122,Near main road,Bangalore,Karnataka,WhatsApp message,Verified,
+167,Justdial,Paws Pet Boarding 167,Pet Boarding,9857628536,Opposite park,Mumbai,Maharashtra,Maps listing,Needs Fix,Phone missing
+168,Community Referral,Animal Feeder 168,Feeder,9144670336,Opposite park,Delhi,Delhi,Referral,Needs Review,Address incomplete
+169,Community Referral,Animal Pet Trainer 169,Pet Trainer,NA,Sector area,Indore,Madhya Pradesh,Maps listing,Verified,
+170,Community Referral,Animal Vet Clinic 170,Vet Clinic,9405506317,Sector area,Noida,Uttar Pradesh,Justdial page,Ready,
+171,Facebook Group,Care Pet Trainer 171,Pet Trainer,9454139637,Near main road,Indore,Madhya Pradesh,Instagram page,Needs Fix,Possible duplicate
+172,Justdial,Animal Feeder 172,Feeder,9476729263,Near main road,Gurgaon,Haryana,Justdial page,Ready,Phone missing
+173,Instagram,Care Pet Boarding 173,Pet Boarding,NA,Opposite park,Bhopal,Madhya Pradesh,Maps listing,Needs Fix,Phone missing
+174,Justdial,Tails NGO 174,NGO,+91 7701474763,Residential area,Pune,Maharashtra,Maps listing,Needs Fix,Possible duplicate
+175,WhatsApp Submission,Care Pet Groomer 175,Pet Groomer,NA,Residential area,Pune,Maharashtra,WhatsApp message,Ready,Phone missing
+176,WhatsApp Submission,Tails Pet Trainer 176,Pet Trainer,+91 6355713788,Near main road,Bangalore,Karnataka,WhatsApp message,Verified,
+177,Facebook Group,Pet Pet Trainer 177,Pet Trainer,NA,Opposite park,Pune,Maharashtra,Instagram page,Verified,Address incomplete
+178,Community Referral,Paws Pet Groomer 178,Pet Groomer,+91 8240034344,Opposite park,Delhi,Delhi,Instagram page,Needs Fix,Possible duplicate
+179,Instagram,Pet Pet Groomer 179,Pet Groomer,9227308040,Opposite park,Gurgaon,Haryana,WhatsApp message,Verified,Address incomplete
+180,Facebook Group,Care Pet Shop 180,Pet Shop,NA,Near main road,Noida,Uttar Pradesh,WhatsApp message,Needs Review,Possible duplicate
+181,Facebook Group,Happy Feeder 181,Feeder,+91 6285350805,Near main road,Delhi,Delhi,Maps listing,Needs Review,
+182,Community Referral,Animal Pet Shop 182,Pet Shop,9595992013,Opposite park,Indore,Madhya Pradesh,Maps listing,Needs Fix,Possible duplicate
+183,Justdial,Trust Vet Clinic 183,Vet Clinic,NA,NA,Bangalore,Karnataka,Referral,Needs Fix,Possible duplicate
+184,Community Referral,Pet NGO 184,NGO,+91 9008073178,Residential area,Delhi,Delhi,Instagram page,Verified,
+185,Instagram,Tails NGO 185,NGO,+91 6913564441,Residential area,Pune,Maharashtra,Maps listing,Needs Review,
+186,Facebook Group,Happy NGO 186,NGO,NA,Residential area,Noida,Uttar Pradesh,Instagram page,Needs Review,Address incomplete
+187,WhatsApp Submission,Care Pet Groomer 187,Pet Groomer,NA,Near main road,Bhopal,Madhya Pradesh,Justdial page,Needs Fix,Address incomplete
+188,Community Referral,Happy Vet Clinic 188,Vet Clinic,9870110298,Opposite park,Bhopal,Madhya Pradesh,Instagram page,Submitted,Phone missing
+189,Justdial,Pet Vet Clinic 189,Vet Clinic,9476150537,NA,Bhopal,Madhya Pradesh,Maps listing,Needs Review,Possible duplicate
+190,Justdial,Paws NGO 190,NGO,NA,Sector area,Pune,Maharashtra,Referral,Verified,Possible duplicate
+191,WhatsApp Submission,Animal Vet Clinic 191,Vet Clinic,9504707698,Sector area,Delhi,Delhi,Instagram page,Submitted,
+192,Instagram,Pet Pet Boarding 192,Pet Boarding,9282598562,Near main road,Mumbai,Maharashtra,Justdial page,Submitted,
+193,Instagram,Happy Vet Clinic 193,Vet Clinic,+91 9051471425,Near main road,Indore,Madhya Pradesh,WhatsApp message,Needs Review,Possible duplicate
+194,WhatsApp Submission,Pet NGO 194,NGO,9138769618,Opposite park,Gurgaon,Haryana,Maps listing,Submitted,Possible duplicate
+195,Justdial,Pet Pet Shop 195,Pet Shop,+91 8875355994,Sector area,Jaipur,Rajasthan,Instagram page,Ready,
+196,Instagram,Pet NGO 196,NGO,9846139237,NA,Pune,Maharashtra,Instagram page,Ready,Address incomplete
+197,Community Referral,Tails Vet Clinic 197,Vet Clinic,9492760356,Sector area,Bangalore,Karnataka,Instagram page,Needs Fix,
+198,Instagram,Tails Pet Shop 198,Pet Shop,NA,NA,Bhopal,Madhya Pradesh,Referral,Needs Review,
+199,Google Maps,Tails Pet Boarding 199,Pet Boarding,+91 8261820329,Residential area,Mumbai,Maharashtra,WhatsApp message,Submitted,Possible duplicate
+200,WhatsApp Submission,Animal Feeder 200,Feeder,9191357700,Near main road,Pune,Maharashtra,WhatsApp message,Submitted,Possible duplicate
+201,Community Referral,Care Pet Shop 201,Pet Shop,+91 9315697552,Residential area,Bhopal,Madhya Pradesh,Instagram page,Submitted,Possible duplicate
+202,Justdial,Paws Pet Shop 202,Pet Shop,+91 6763533566,Near main road,Chennai,Tamil Nadu,Justdial page,Verified,
+203,Community Referral,Pet Pet Trainer 203,Pet Trainer,NA,Sector area,Noida,Uttar Pradesh,Instagram page,Ready,Phone missing
+204,Instagram,Tails Vet Clinic 204,Vet Clinic,NA,Near main road,Noida,Uttar Pradesh,Maps listing,Needs Review,Possible duplicate
+205,WhatsApp Submission,Trust Vet Hospital 205,Vet Hospital,+91 7004595436,Near main road,Jaipur,Rajasthan,Referral,Ready,Possible duplicate
+206,Facebook Group,Trust Pet Trainer 206,Pet Trainer,9485544457,Opposite park,Bangalore,Karnataka,Instagram page,Ready,Address incomplete
+207,Google Maps,Animal NGO 207,NGO,9755524690,NA,Noida,Uttar Pradesh,Referral,Needs Review,Address incomplete
+208,Justdial,Care Pet Groomer 208,Pet Groomer,+91 6761988137,Residential area,Jaipur,Rajasthan,Instagram page,Ready,
+209,Instagram,Tails Pet Shop 209,Pet Shop,9504811875,Near main road,Gurgaon,Haryana,Referral,Needs Review,Phone missing
+210,Instagram,Care Vet Clinic 210,Vet Clinic,9293981632,NA,Jaipur,Rajasthan,Referral,Needs Review,Possible duplicate
+211,Instagram,Paws Pet Groomer 211,Pet Groomer,+91 8608375447,Near main road,Bhopal,Madhya Pradesh,Referral,Needs Review,Possible duplicate
+212,Google Maps,Tails Feeder 212,Feeder,NA,Residential area,Noida,Uttar Pradesh,WhatsApp message,Needs Review,Address incomplete
+213,Instagram,Pet Pet Groomer 213,Pet Groomer,9601202371,Near main road,Delhi,Delhi,Instagram page,Needs Review,
+214,Community Referral,Pet Vet Hospital 214,Vet Hospital,+91 8591854675,NA,Mumbai,Maharashtra,WhatsApp message,Submitted,
+215,Facebook Group,Paws NGO 215,NGO,NA,Sector area,Pune,Maharashtra,Instagram page,Verified,Possible duplicate
+216,Facebook Group,Pet NGO 216,NGO,NA,NA,Delhi,Delhi,Maps listing,Submitted,Possible duplicate
+217,Community Referral,Paws Pet Shop 217,Pet Shop,9879967944,Near main road,Bangalore,Karnataka,Instagram page,Needs Fix,
+218,WhatsApp Submission,Care Feeder 218,Feeder,NA,Opposite park,Bangalore,Karnataka,Maps listing,Submitted,
+219,Facebook Group,Tails Vet Clinic 219,Vet Clinic,NA,Opposite park,Mumbai,Maharashtra,Justdial page,Submitted,Address incomplete
+220,Instagram,Tails Feeder 220,Feeder,NA,Residential area,Mumbai,Maharashtra,Instagram page,Ready,Address incomplete
+221,Facebook Group,Animal Pet Boarding 221,Pet Boarding,+91 9325470954,Near main road,Pune,Maharashtra,Justdial page,Submitted,Phone missing
+222,Facebook Group,Paws Pet Boarding 222,Pet Boarding,9188847610,Opposite park,Delhi,Delhi,Maps listing,Verified,
+223,Community Referral,Tails Pet Boarding 223,Pet Boarding,+91 6343036859,NA,Bhopal,Madhya Pradesh,Referral,Submitted,Phone missing
+224,Facebook Group,Tails NGO 224,NGO,+91 6240928883,Sector area,Chennai,Tamil Nadu,Instagram page,Needs Review,Possible duplicate
+225,Google Maps,Care Vet Clinic 225,Vet Clinic,+91 8058489947,Residential area,Indore,Madhya Pradesh,Maps listing,Submitted,
+226,Facebook Group,Pet Feeder 226,Feeder,+91 8065387209,Sector area,Delhi,Delhi,Maps listing,Needs Review,Address incomplete
+227,Community Referral,Paws Vet Hospital 227,Vet Hospital,+91 8902700943,Residential area,Bhopal,Madhya Pradesh,Justdial page,Needs Fix,Possible duplicate
+228,WhatsApp Submission,Happy Pet Groomer 228,Pet Groomer,NA,Opposite park,Noida,Uttar Pradesh,Justdial page,Needs Review,
+229,WhatsApp Submission,Tails NGO 229,NGO,NA,Near main road,Gurgaon,Haryana,Referral,Ready,Phone missing
+230,Google Maps,Animal Pet Trainer 230,Pet Trainer,NA,Residential area,Indore,Madhya Pradesh,WhatsApp message,Submitted,Phone missing
+231,Instagram,Trust Pet Groomer 231,Pet Groomer,9613415436,NA,Pune,Maharashtra,Instagram page,Ready,Possible duplicate
+232,Instagram,Pet Pet Boarding 232,Pet Boarding,NA,Residential area,Noida,Uttar Pradesh,Maps listing,Needs Review,Phone missing
+233,Google Maps,Trust Pet Shop 233,Pet Shop,+91 9096786624,NA,Gurgaon,Haryana,WhatsApp message,Ready,Address incomplete
+234,Community Referral,Tails Feeder 234,Feeder,+91 8570197025,Near main road,Bangalore,Karnataka,WhatsApp message,Submitted,Address incomplete
+235,WhatsApp Submission,Tails Vet Hospital 235,Vet Hospital,NA,Sector area,Pune,Maharashtra,Instagram page,Needs Review,Address incomplete
+236,Community Referral,Paws Pet Groomer 236,Pet Groomer,NA,Near main road,Delhi,Delhi,Instagram page,Verified,Address incomplete
+237,Instagram,Happy Vet Clinic 237,Vet Clinic,+91 6215389583,Residential area,Mumbai,Maharashtra,WhatsApp message,Ready,
+238,Instagram,Paws Pet Boarding 238,Pet Boarding,9542050365,Sector area,Bhopal,Madhya Pradesh,WhatsApp message,Needs Review,Address incomplete
+239,WhatsApp Submission,Tails NGO 239,NGO,NA,Near main road,Mumbai,Maharashtra,Referral,Needs Fix,Possible duplicate
+240,Google Maps,Paws Pet Boarding 240,Pet Boarding,+91 8533337919,Sector area,Jaipur,Rajasthan,Referral,Submitted,Address incomplete
+241,Community Referral,Trust Pet Groomer 241,Pet Groomer,+91 9180730540,NA,Indore,Madhya Pradesh,Justdial page,Submitted,
+242,Community Referral,Care Feeder 242,Feeder,9845466449,Near main road,Indore,Madhya Pradesh,Referral,Needs Review,Phone missing
+243,Facebook Group,Animal Pet Groomer 243,Pet Groomer,+91 7095832264,Near main road,Bhopal,Madhya Pradesh,Justdial page,Needs Review,
+244,Community Referral,Trust Vet Hospital 244,Vet Hospital,NA,Residential area,Bangalore,Karnataka,Referral,Submitted,Address incomplete
+245,Google Maps,Animal Pet Groomer 245,Pet Groomer,9714349306,Opposite park,Chennai,Tamil Nadu,Justdial page,Verified,Possible duplicate
+246,Facebook Group,Care Vet Clinic 246,Vet Clinic,+91 7649093116,Sector area,Gurgaon,Haryana,Referral,Verified,Address incomplete
+247,Justdial,Trust Pet Boarding 247,Pet Boarding,9845398669,Residential area,Chennai,Tamil Nadu,Referral,Ready,Phone missing
+248,Instagram,Care Vet Clinic 248,Vet Clinic,NA,Near main road,Indore,Madhya Pradesh,Maps listing,Verified,Address incomplete
+249,Instagram,Happy Vet Clinic 249,Vet Clinic,9262239181,NA,Noida,Uttar Pradesh,Justdial page,Needs Review,Address incomplete
+250,WhatsApp Submission,Pet Pet Trainer 250,Pet Trainer,+91 6593751186,Opposite park,Delhi,Delhi,Maps listing,Needs Review,Phone missing
+251,Instagram,Paws NGO 251,NGO,NA,NA,Indore,Madhya Pradesh,WhatsApp message,Needs Fix,
+252,Justdial,Trust Pet Boarding 252,Pet Boarding,NA,Near main road,Delhi,Delhi,Maps listing,Needs Review,Address incomplete
+253,WhatsApp Submission,Paws Pet Groomer 253,Pet Groomer,NA,Opposite park,Mumbai,Maharashtra,Instagram page,Needs Review,
+254,Justdial,Pet NGO 254,NGO,NA,NA,Bhopal,Madhya Pradesh,WhatsApp message,Needs Review,Possible duplicate
+255,WhatsApp Submission,Trust Pet Boarding 255,Pet Boarding,9493018414,Opposite park,Noida,Uttar Pradesh,WhatsApp message,Submitted,
+256,Community Referral,Happy Pet Boarding 256,Pet Boarding,+91 9703840297,Sector area,Pune,Maharashtra,Referral,Verified,Phone missing
+257,Community Referral,Paws Pet Groomer 257,Pet Groomer,9125121156,Near main road,Chennai,Tamil Nadu,Instagram page,Ready,
+258,Community Referral,Pet NGO 258,NGO,+91 6612743302,Near main road,Mumbai,Maharashtra,Referral,Ready,Phone missing
+259,Community Referral,Trust Pet Groomer 259,Pet Groomer,9471850220,Residential area,Bhopal,Madhya Pradesh,Instagram page,Needs Review,Possible duplicate
+260,Facebook Group,Animal Feeder 260,Feeder,+91 7779934108,NA,Pune,Maharashtra,Referral,Needs Fix,Phone missing
+261,Community Referral,Paws Feeder 261,Feeder,+91 7630486953,Opposite park,Noida,Uttar Pradesh,Maps listing,Submitted,Address incomplete
+262,Community Referral,Animal Pet Shop 262,Pet Shop,9598891253,Sector area,Delhi,Delhi,Maps listing,Needs Review,Phone missing
+263,Community Referral,Paws Vet Clinic 263,Vet Clinic,+91 7706526213,Sector area,Delhi,Delhi,Maps listing,Ready,Phone missing
+264,Instagram,Pet Vet Clinic 264,Vet Clinic,NA,Opposite park,Gurgaon,Haryana,WhatsApp message,Ready,
+265,Facebook Group,Trust Vet Hospital 265,Vet Hospital,9740814156,Near main road,Jaipur,Rajasthan,Referral,Ready,Address incomplete
+266,Google Maps,Care Pet Shop 266,Pet Shop,9941882047,Residential area,Indore,Madhya Pradesh,Justdial page,Ready,
+267,Justdial,Animal Vet Hospital 267,Vet Hospital,+91 6758968547,Near main road,Indore,Madhya Pradesh,Instagram page,Verified,Possible duplicate
+268,Community Referral,Care Feeder 268,Feeder,9917327519,Near main road,Gurgaon,Haryana,Justdial page,Submitted,Possible duplicate
+269,Instagram,Trust Feeder 269,Feeder,NA,Opposite park,Delhi,Delhi,WhatsApp message,Needs Fix,Phone missing
+270,WhatsApp Submission,Animal Pet Groomer 270,Pet Groomer,+91 6396143759,Sector area,Noida,Uttar Pradesh,Justdial page,Verified,Address incomplete
+271,Instagram,Paws Vet Clinic 271,Vet Clinic,NA,Residential area,Bhopal,Madhya Pradesh,Maps listing,Verified,Address incomplete
+272,Google Maps,Trust Pet Shop 272,Pet Shop,NA,Sector area,Mumbai,Maharashtra,Referral,Verified,Phone missing
+273,Google Maps,Trust Pet Groomer 273,Pet Groomer,+91 8160669608,Near main road,Bangalore,Karnataka,Instagram page,Verified,Possible duplicate
+274,Instagram,Care Vet Clinic 274,Vet Clinic,9897149700,Near main road,Noida,Uttar Pradesh,Referral,Needs Fix,Address incomplete
+275,Google Maps,Happy NGO 275,NGO,+91 6593032157,NA,Jaipur,Rajasthan,WhatsApp message,Needs Review,Possible duplicate
+276,WhatsApp Submission,Animal Pet Groomer 276,Pet Groomer,+91 8645941998,NA,Jaipur,Rajasthan,Justdial page,Submitted,
+277,Facebook Group,Animal NGO 277,NGO,9195753818,Residential area,Bhopal,Madhya Pradesh,WhatsApp message,Submitted,Address incomplete
+278,Instagram,Tails Vet Hospital 278,Vet Hospital,+91 8675564799,Near main road,Delhi,Delhi,WhatsApp message,Needs Review,
+279,Community Referral,Trust Feeder 279,Feeder,NA,NA,Jaipur,Rajasthan,WhatsApp message,Needs Review,Phone missing
+280,Google Maps,Happy Pet Boarding 280,Pet Boarding,NA,Near main road,Chennai,Tamil Nadu,Referral,Submitted,Possible duplicate
+281,WhatsApp Submission,Trust Pet Shop 281,Pet Shop,+91 9348530761,NA,Chennai,Tamil Nadu,Referral,Submitted,Phone missing
+282,Community Referral,Trust Pet Boarding 282,Pet Boarding,NA,Sector area,Indore,Madhya Pradesh,WhatsApp message,Needs Review,Address incomplete
+283,Instagram,Animal Pet Boarding 283,Pet Boarding,NA,Sector area,Delhi,Delhi,Instagram page,Verified,
+284,Google Maps,Tails Feeder 284,Feeder,9892422295,Opposite park,Noida,Uttar Pradesh,Instagram page,Needs Fix,Phone missing
+285,Instagram,Pet Pet Shop 285,Pet Shop,NA,Residential area,Jaipur,Rajasthan,Referral,Needs Review,Phone missing
+286,Instagram,Care Pet Shop 286,Pet Shop,+91 8409049819,NA,Mumbai,Maharashtra,Justdial page,Needs Fix,Address incomplete
+287,Justdial,Pet Vet Clinic 287,Vet Clinic,NA,Near main road,Pune,Maharashtra,WhatsApp message,Verified,Phone missing
+288,Instagram,Animal Pet Groomer 288,Pet Groomer,9408623423,NA,Gurgaon,Haryana,WhatsApp message,Verified,Possible duplicate
+289,Google Maps,Pet Vet Clinic 289,Vet Clinic,9372694559,Opposite park,Gurgaon,Haryana,Justdial page,Needs Review,Possible duplicate
+290,Google Maps,Pet Pet Groomer 290,Pet Groomer,9349676080,Opposite park,Mumbai,Maharashtra,Instagram page,Verified,
+291,Facebook Group,Pet Vet Hospital 291,Vet Hospital,+91 7272717905,Opposite park,Noida,Uttar Pradesh,Instagram page,Needs Fix,Address incomplete
+292,Facebook Group,Trust Vet Hospital 292,Vet Hospital,NA,Near main road,Pune,Maharashtra,Maps listing,Needs Review,Address incomplete
+293,Instagram,Pet Pet Shop 293,Pet Shop,+91 8530935334,NA,Jaipur,Rajasthan,Justdial page,Ready,Possible duplicate
+294,Justdial,Tails Feeder 294,Feeder,NA,Near main road,Bhopal,Madhya Pradesh,WhatsApp message,Submitted,
+295,WhatsApp Submission,Trust Vet Clinic 295,Vet Clinic,9906188132,Sector area,Pune,Maharashtra,WhatsApp message,Ready,
+296,WhatsApp Submission,Tails Vet Hospital 296,Vet Hospital,NA,NA,Indore,Madhya Pradesh,Justdial page,Ready,
+297,Facebook Group,Animal Pet Trainer 297,Pet Trainer,+91 7143758692,Sector area,Pune,Maharashtra,WhatsApp message,Needs Fix,Possible duplicate
+298,Instagram,Pet Pet Trainer 298,Pet Trainer,9736075496,Sector area,Mumbai,Maharashtra,Referral,Needs Fix,Phone missing
+299,Community Referral,Happy Vet Clinic 299,Vet Clinic,9972900718,Near main road,Delhi,Delhi,Justdial page,Ready,
+300,Justdial,Happy Vet Clinic 300,Vet Clinic,NA,NA,Chennai,Tamil Nadu,Justdial page,Submitted,Possible duplicate
+301,WhatsApp Submission,Care Pet Shop 301,Pet Shop,9464022600,NA,Pune,Maharashtra,Instagram page,Ready,
+302,Instagram,Trust Pet Boarding 302,Pet Boarding,NA,NA,Bangalore,Karnataka,Maps listing,Needs Fix,Address incomplete
+303,Google Maps,Happy Feeder 303,Feeder,+91 6547819656,Sector area,Mumbai,Maharashtra,Justdial page,Ready,Phone missing
+304,Community Referral,Care Vet Clinic 304,Vet Clinic,NA,Sector area,Jaipur,Rajasthan,Maps listing,Submitted,
+305,Community Referral,Paws Pet Shop 305,Pet Shop,+91 8330531967,Residential area,Pune,Maharashtra,Instagram page,Submitted,
+306,Google Maps,Trust NGO 306,NGO,+91 6165932384,Residential area,Mumbai,Maharashtra,Referral,Submitted,Possible duplicate
+307,Community Referral,Trust NGO 307,NGO,9784650859,Near main road,Chennai,Tamil Nadu,Maps listing,Verified,Phone missing
+308,Justdial,Animal Pet Shop 308,Pet Shop,+91 8571597453,Opposite park,Chennai,Tamil Nadu,WhatsApp message,Needs Fix,Address incomplete
+309,Facebook Group,Happy Pet Trainer 309,Pet Trainer,+91 9101289951,Sector area,Indore,Madhya Pradesh,Maps listing,Needs Fix,Possible duplicate
+310,WhatsApp Submission,Care Pet Boarding 310,Pet Boarding,9900325027,Near main road,Pune,Maharashtra,WhatsApp message,Submitted,Possible duplicate
+311,WhatsApp Submission,Pet Feeder 311,Feeder,NA,Sector area,Bhopal,Madhya Pradesh,Justdial page,Needs Fix,Possible duplicate
+312,Instagram,Pet Vet Hospital 312,Vet Hospital,NA,Opposite park,Delhi,Delhi,Referral,Ready,
+313,Community Referral,Paws Feeder 313,Feeder,NA,Sector area,Noida,Uttar Pradesh,Maps listing,Submitted,Possible duplicate
+314,Justdial,Care Vet Hospital 314,Vet Hospital,+91 6292504299,Residential area,Bangalore,Karnataka,Maps listing,Needs Review,Address incomplete
+315,WhatsApp Submission,Pet Pet Shop 315,Pet Shop,NA,Residential area,Pune,Maharashtra,WhatsApp message,Verified,Possible duplicate
+316,Justdial,Trust Feeder 316,Feeder,NA,Near main road,Gurgaon,Haryana,Maps listing,Verified,Possible duplicate
+317,Community Referral,Care Pet Shop 317,Pet Shop,9238390293,Residential area,Bangalore,Karnataka,WhatsApp message,Verified,Address incomplete
+318,WhatsApp Submission,Animal Vet Clinic 318,Vet Clinic,NA,NA,Jaipur,Rajasthan,Maps listing,Needs Review,
+319,Facebook Group,Paws Vet Clinic 319,Vet Clinic,NA,Near main road,Bhopal,Madhya Pradesh,Maps listing,Ready,Phone missing
+320,Instagram,Happy Pet Boarding 320,Pet Boarding,NA,NA,Chennai,Tamil Nadu,WhatsApp message,Submitted,Possible duplicate
+321,Community Referral,Trust Vet Clinic 321,Vet Clinic,+91 9628596612,Opposite park,Noida,Uttar Pradesh,Referral,Ready,Phone missing
+322,WhatsApp Submission,Happy NGO 322,NGO,+91 9244215084,NA,Chennai,Tamil Nadu,WhatsApp message,Verified,Possible duplicate
+323,Instagram,Happy Feeder 323,Feeder,9682350057,Residential area,Pune,Maharashtra,Referral,Verified,Phone missing
+324,Google Maps,Happy NGO 324,NGO,+91 9618058552,Residential area,Gurgaon,Haryana,Justdial page,Verified,Possible duplicate
+325,Justdial,Paws Pet Trainer 325,Pet Trainer,9927074416,Near main road,Delhi,Delhi,Referral,Ready,
+326,Community Referral,Pet Pet Trainer 326,Pet Trainer,NA,Sector area,Bangalore,Karnataka,WhatsApp message,Ready,Possible duplicate
+327,Facebook Group,Paws NGO 327,NGO,9161650342,Residential area,Pune,Maharashtra,Instagram page,Ready,Possible duplicate
+328,Justdial,Care NGO 328,NGO,NA,Near main road,Mumbai,Maharashtra,Maps listing,Needs Review,Possible duplicate
+329,WhatsApp Submission,Care Vet Clinic 329,Vet Clinic,9970760905,Opposite park,Noida,Uttar Pradesh,Justdial page,Needs Review,Address incomplete
+330,WhatsApp Submission,Care Pet Boarding 330,Pet Boarding,9611817209,Opposite park,Jaipur,Rajasthan,Instagram page,Ready,Address incomplete
+331,Facebook Group,Pet Vet Hospital 331,Vet Hospital,9255337976,Opposite park,Bangalore,Karnataka,Instagram page,Ready,Possible duplicate
+332,Justdial,Pet Feeder 332,Feeder,NA,NA,Bangalore,Karnataka,Instagram page,Verified,Address incomplete
+333,WhatsApp Submission,Happy Vet Clinic 333,Vet Clinic,9762051339,Opposite park,Delhi,Delhi,Justdial page,Verified,Possible duplicate
+334,Community Referral,Trust Vet Clinic 334,Vet Clinic,9437011822,Opposite park,Chennai,Tamil Nadu,Maps listing,Needs Review,Address incomplete
+335,Google Maps,Paws Pet Groomer 335,Pet Groomer,NA,Residential area,Indore,Madhya Pradesh,Instagram page,Needs Fix,
+336,Instagram,Paws Pet Groomer 336,Pet Groomer,NA,Sector area,Noida,Uttar Pradesh,Maps listing,Ready,Possible duplicate
+337,Google Maps,Care Vet Hospital 337,Vet Hospital,9718910305,Near main road,Noida,Uttar Pradesh,Instagram page,Submitted,
+338,Justdial,Animal Vet Hospital 338,Vet Hospital,9318379225,NA,Chennai,Tamil Nadu,Maps listing,Needs Fix,Possible duplicate
+339,Instagram,Happy Pet Trainer 339,Pet Trainer,+91 9403986182,NA,Mumbai,Maharashtra,Referral,Verified,Phone missing
+340,Community Referral,Happy NGO 340,NGO,+91 9348073441,Near main road,Bhopal,Madhya Pradesh,Referral,Needs Review,Possible duplicate
+341,Google Maps,Happy Feeder 341,Feeder,9454432119,Near main road,Gurgaon,Haryana,WhatsApp message,Verified,
+342,Instagram,Happy Feeder 342,Feeder,9108931272,Near main road,Delhi,Delhi,WhatsApp message,Ready,
+343,Justdial,Tails Pet Shop 343,Pet Shop,+91 8234878965,Sector area,Pune,Maharashtra,Referral,Needs Fix,
+344,Community Referral,Pet Pet Groomer 344,Pet Groomer,+91 6344536455,Near main road,Delhi,Delhi,WhatsApp message,Needs Fix,Possible duplicate
+345,Google Maps,Pet Pet Trainer 345,Pet Trainer,+91 8490993548,Sector area,Noida,Uttar Pradesh,Referral,Needs Review,Possible duplicate
+346,Community Referral,Animal Pet Groomer 346,Pet Groomer,9402623462,NA,Noida,Uttar Pradesh,WhatsApp message,Ready,Phone missing
+347,Community Referral,Tails Pet Groomer 347,Pet Groomer,NA,Sector area,Gurgaon,Haryana,WhatsApp message,Needs Fix,Address incomplete
+348,Community Referral,Pet NGO 348,NGO,9975121079,NA,Noida,Uttar Pradesh,WhatsApp message,Needs Fix,
+349,Instagram,Care Pet Groomer 349,Pet Groomer,NA,Sector area,Pune,Maharashtra,Referral,Needs Review,Possible duplicate
+350,Instagram,Animal Pet Groomer 350,Pet Groomer,9986498074,Opposite park,Noida,Uttar Pradesh,Maps listing,Ready,
+351,Instagram,Pet Pet Trainer 351,Pet Trainer,NA,Near main road,Pune,Maharashtra,WhatsApp message,Verified,Address incomplete
+352,Community Referral,Animal Feeder 352,Feeder,+91 7933534386,NA,Indore,Madhya Pradesh,WhatsApp message,Needs Review,Possible duplicate
+353,Community Referral,Tails Vet Clinic 353,Vet Clinic,9647703463,Sector area,Mumbai,Maharashtra,WhatsApp message,Needs Fix,
+354,WhatsApp Submission,Trust Vet Clinic 354,Vet Clinic,+91 8151410409,Near main road,Gurgaon,Haryana,WhatsApp message,Verified,Possible duplicate
+355,WhatsApp Submission,Pet Pet Trainer 355,Pet Trainer,9779023355,Opposite park,Delhi,Delhi,Maps listing,Needs Review,Address incomplete
+356,Community Referral,Paws Pet Groomer 356,Pet Groomer,9808536214,Residential area,Noida,Uttar Pradesh,Referral,Needs Review,
+357,Instagram,Animal Feeder 357,Feeder,+91 8418308201,NA,Pune,Maharashtra,Justdial page,Ready,
+358,Instagram,Animal Pet Groomer 358,Pet Groomer,NA,NA,Delhi,Delhi,Instagram page,Needs Fix,Possible duplicate
+359,Google Maps,Happy Pet Boarding 359,Pet Boarding,NA,Near main road,Jaipur,Rajasthan,Instagram page,Verified,Phone missing
+360,Google Maps,Happy Pet Shop 360,Pet Shop,NA,NA,Noida,Uttar Pradesh,Justdial page,Verified,Phone missing
+361,Facebook Group,Care NGO 361,NGO,NA,NA,Bangalore,Karnataka,Referral,Needs Review,Phone missing
+362,Google Maps,Care Pet Trainer 362,Pet Trainer,9696351264,Near main road,Bangalore,Karnataka,Instagram page,Submitted,Possible duplicate
+363,Google Maps,Pet Pet Shop 363,Pet Shop,NA,Opposite park,Bhopal,Madhya Pradesh,Referral,Needs Review,Phone missing
+364,WhatsApp Submission,Pet Feeder 364,Feeder,NA,Residential area,Chennai,Tamil Nadu,Maps listing,Submitted,Possible duplicate
+365,Community Referral,Paws Pet Shop 365,Pet Shop,NA,Sector area,Indore,Madhya Pradesh,Referral,Submitted,Possible duplicate
+366,Community Referral,Animal Vet Hospital 366,Vet Hospital,+91 6154017012,Residential area,Pune,Maharashtra,Instagram page,Ready,Possible duplicate
+367,Community Referral,Tails Vet Clinic 367,Vet Clinic,NA,Residential area,Indore,Madhya Pradesh,Justdial page,Verified,
+368,Instagram,Animal Pet Groomer 368,Pet Groomer,+91 7332092210,NA,Bhopal,Madhya Pradesh,Instagram page,Ready,Possible duplicate
+369,Community Referral,Tails Vet Clinic 369,Vet Clinic,+91 8304880780,Opposite park,Noida,Uttar Pradesh,Maps listing,Submitted,
+370,Community Referral,Animal Pet Trainer 370,Pet Trainer,9649947744,Opposite park,Mumbai,Maharashtra,Referral,Submitted,Phone missing
+371,Justdial,Pet Feeder 371,Feeder,NA,Near main road,Jaipur,Rajasthan,Maps listing,Verified,Phone missing
+372,Community Referral,Trust Pet Shop 372,Pet Shop,+91 8149638512,Opposite park,Delhi,Delhi,Referral,Verified,Possible duplicate
+373,Google Maps,Pet Vet Clinic 373,Vet Clinic,9879121603,Opposite park,Bangalore,Karnataka,WhatsApp message,Submitted,Address incomplete
+374,Community Referral,Animal Pet Shop 374,Pet Shop,+91 9281320198,Residential area,Chennai,Tamil Nadu,Maps listing,Verified,Address incomplete
+375,Justdial,Paws Vet Hospital 375,Vet Hospital,NA,Opposite park,Bhopal,Madhya Pradesh,WhatsApp message,Needs Review,Phone missing
+376,Instagram,Care Vet Hospital 376,Vet Hospital,+91 9752556192,NA,Noida,Uttar Pradesh,Instagram page,Needs Fix,
+377,Facebook Group,Paws NGO 377,NGO,NA,Residential area,Mumbai,Maharashtra,WhatsApp message,Ready,Address incomplete
+378,Instagram,Paws Vet Hospital 378,Vet Hospital,+91 9281687771,NA,Noida,Uttar Pradesh,Maps listing,Needs Fix,Possible duplicate
+379,Community Referral,Happy Pet Boarding 379,Pet Boarding,NA,Near main road,Delhi,Delhi,Instagram page,Needs Fix,Address incomplete
+380,Community Referral,Trust Pet Groomer 380,Pet Groomer,9708540763,Sector area,Indore,Madhya Pradesh,Justdial page,Verified,Phone missing
+381,WhatsApp Submission,Paws Vet Clinic 381,Vet Clinic,+91 8016806975,Sector area,Jaipur,Rajasthan,Maps listing,Needs Fix,Address incomplete
+382,Facebook Group,Animal Pet Trainer 382,Pet Trainer,9467791585,NA,Bhopal,Madhya Pradesh,Maps listing,Submitted,Possible duplicate
+383,Facebook Group,Tails Vet Hospital 383,Vet Hospital,NA,Sector area,Jaipur,Rajasthan,Justdial page,Needs Review,Phone missing
+384,Google Maps,Tails NGO 384,NGO,+91 6689190628,Residential area,Indore,Madhya Pradesh,WhatsApp message,Verified,
+385,Justdial,Pet Vet Hospital 385,Vet Hospital,+91 6488005987,Near main road,Noida,Uttar Pradesh,Justdial page,Submitted,
+386,Instagram,Pet Pet Trainer 386,Pet Trainer,NA,Residential area,Mumbai,Maharashtra,Referral,Needs Fix,
+387,WhatsApp Submission,Happy NGO 387,NGO,9563947100,Opposite park,Gurgaon,Haryana,Referral,Ready,
+388,Instagram,Animal Vet Hospital 388,Vet Hospital,+91 8142848933,Residential area,Jaipur,Rajasthan,Justdial page,Needs Review,Address incomplete
+389,Facebook Group,Happy Pet Trainer 389,Pet Trainer,9258320642,NA,Indore,Madhya Pradesh,Maps listing,Verified,Possible duplicate
+390,Facebook Group,Happy Pet Groomer 390,Pet Groomer,+91 6492264176,Near main road,Gurgaon,Haryana,Instagram page,Ready,Phone missing
+391,Instagram,Trust Pet Boarding 391,Pet Boarding,9871271672,Opposite park,Bangalore,Karnataka,WhatsApp message,Needs Review,Address incomplete
+392,Community Referral,Tails Feeder 392,Feeder,9362241453,NA,Bangalore,Karnataka,Maps listing,Needs Review,
+393,Justdial,Trust Pet Groomer 393,Pet Groomer,NA,Opposite park,Bangalore,Karnataka,Maps listing,Submitted,Possible duplicate
+394,Justdial,Care Pet Boarding 394,Pet Boarding,NA,Residential area,Gurgaon,Haryana,Referral,Needs Fix,
+395,Google Maps,Animal Pet Trainer 395,Pet Trainer,+91 7768822726,Near main road,Jaipur,Rajasthan,Justdial page,Needs Review,
+396,Instagram,Trust Pet Shop 396,Pet Shop,9586128939,Residential area,Jaipur,Rajasthan,Referral,Needs Review,Possible duplicate
+397,Justdial,Pet Feeder 397,Feeder,9147816007,Residential area,Bhopal,Madhya Pradesh,Referral,Needs Review,Possible duplicate
+398,Instagram,Animal Pet Boarding 398,Pet Boarding,NA,Residential area,Bangalore,Karnataka,Justdial page,Needs Review,
+399,WhatsApp Submission,Pet Pet Boarding 399,Pet Boarding,NA,Sector area,Chennai,Tamil Nadu,Referral,Ready,
+400,Justdial,Happy Vet Hospital 400,Vet Hospital,9816434763,Sector area,Jaipur,Rajasthan,Maps listing,Ready,Phone missing
+401,Google Maps,Happy NGO 401,NGO,NA,Opposite park,Pune,Maharashtra,Justdial page,Needs Review,Address incomplete
+402,Justdial,Paws Feeder 402,Feeder,9964844786,Opposite park,Chennai,Tamil Nadu,Instagram page,Verified,
+403,Justdial,Happy Pet Trainer 403,Pet Trainer,9950553720,Near main road,Chennai,Tamil Nadu,Justdial page,Submitted,Possible duplicate
+404,Justdial,Animal Pet Shop 404,Pet Shop,9584133049,NA,Bangalore,Karnataka,Maps listing,Ready,
+405,Google Maps,Care NGO 405,NGO,NA,Near main road,Gurgaon,Haryana,WhatsApp message,Submitted,
+406,Community Referral,Paws Pet Shop 406,Pet Shop,NA,Residential area,Delhi,Delhi,Justdial page,Verified,Address incomplete
+407,Community Referral,Pet NGO 407,NGO,9604276547,Residential area,Pune,Maharashtra,Maps listing,Needs Fix,Phone missing
+408,Justdial,Trust Pet Groomer 408,Pet Groomer,NA,Residential area,Chennai,Tamil Nadu,WhatsApp message,Ready,
+409,WhatsApp Submission,Trust Vet Clinic 409,Vet Clinic,NA,NA,Noida,Uttar Pradesh,WhatsApp message,Ready,Phone missing
+410,Justdial,Happy Pet Shop 410,Pet Shop,+91 9442452365,Sector area,Pune,Maharashtra,Instagram page,Submitted,Address incomplete
+411,WhatsApp Submission,Trust Pet Boarding 411,Pet Boarding,9510883790,Sector area,Bangalore,Karnataka,Instagram page,Ready,
+412,Justdial,Trust Vet Clinic 412,Vet Clinic,NA,Sector area,Bangalore,Karnataka,WhatsApp message,Verified,Possible duplicate
+413,Facebook Group,Happy Vet Clinic 413,Vet Clinic,9109089537,Sector area,Bhopal,Madhya Pradesh,Justdial page,Ready,Address incomplete
+414,Facebook Group,Animal Pet Boarding 414,Pet Boarding,NA,Sector area,Noida,Uttar Pradesh,WhatsApp message,Submitted,Possible duplicate
+415,WhatsApp Submission,Happy Pet Shop 415,Pet Shop,NA,Near main road,Chennai,Tamil Nadu,WhatsApp message,Needs Review,Phone missing
+416,Community Referral,Care Feeder 416,Feeder,+91 6444480824,Residential area,Bangalore,Karnataka,Instagram page,Verified,Address incomplete
+417,Facebook Group,Happy Pet Groomer 417,Pet Groomer,+91 9997875126,Near main road,Delhi,Delhi,Referral,Verified,
+418,Community Referral,Animal NGO 418,NGO,+91 8046291672,Residential area,Bhopal,Madhya Pradesh,Instagram page,Verified,
+419,Instagram,Paws Pet Boarding 419,Pet Boarding,9576158439,Residential area,Gurgaon,Haryana,Referral,Needs Fix,Possible duplicate
+420,Community Referral,Tails Pet Shop 420,Pet Shop,NA,Residential area,Delhi,Delhi,Justdial page,Verified,Phone missing
+421,Community Referral,Trust Vet Hospital 421,Vet Hospital,9210281025,Opposite park,Chennai,Tamil Nadu,Maps listing,Verified,Phone missing
+422,Community Referral,Paws Pet Shop 422,Pet Shop,+91 7097129699,NA,Indore,Madhya Pradesh,Instagram page,Needs Fix,Possible duplicate
+423,Instagram,Paws NGO 423,NGO,+91 7339746447,Sector area,Pune,Maharashtra,Justdial page,Needs Fix,Address incomplete
+424,WhatsApp Submission,Happy Pet Shop 424,Pet Shop,+91 9123097713,Opposite park,Bhopal,Madhya Pradesh,Justdial page,Needs Fix,Address incomplete
+425,Google Maps,Tails Pet Groomer 425,Pet Groomer,NA,Residential area,Jaipur,Rajasthan,Justdial page,Submitted,Possible duplicate
+426,Google Maps,Happy Pet Shop 426,Pet Shop,NA,Near main road,Bangalore,Karnataka,Instagram page,Submitted,
+427,Instagram,Animal NGO 427,NGO,NA,NA,Indore,Madhya Pradesh,Maps listing,Submitted,Possible duplicate
+428,Community Referral,Care Pet Boarding 428,Pet Boarding,9685553970,Near main road,Gurgaon,Haryana,Referral,Needs Review,Phone missing
+429,Instagram,Pet NGO 429,NGO,+91 8041695443,Sector area,Bhopal,Madhya Pradesh,Justdial page,Needs Review,Possible duplicate
+430,Facebook Group,Tails Pet Shop 430,Pet Shop,+91 8147960530,Opposite park,Noida,Uttar Pradesh,Justdial page,Submitted,Phone missing
+431,Google Maps,Care Pet Boarding 431,Pet Boarding,NA,NA,Pune,Maharashtra,Maps listing,Verified,Address incomplete
+432,Google Maps,Paws Pet Groomer 432,Pet Groomer,NA,Near main road,Delhi,Delhi,Instagram page,Submitted,Address incomplete
+433,Community Referral,Pet NGO 433,NGO,+91 9485442033,Opposite park,Noida,Uttar Pradesh,Instagram page,Needs Review,Address incomplete
+434,Community Referral,Animal Pet Boarding 434,Pet Boarding,+91 8956449017,NA,Gurgaon,Haryana,Instagram page,Submitted,Phone missing
+435,Facebook Group,Pet Pet Shop 435,Pet Shop,9343630860,Opposite park,Mumbai,Maharashtra,Referral,Ready,Address incomplete
+436,Instagram,Trust Vet Clinic 436,Vet Clinic,9815039128,Near main road,Pune,Maharashtra,WhatsApp message,Needs Review,Phone missing
+437,Community Referral,Pet NGO 437,NGO,9903990959,Residential area,Jaipur,Rajasthan,WhatsApp message,Needs Review,Phone missing
+438,Community Referral,Paws Pet Groomer 438,Pet Groomer,9788610753,NA,Gurgaon,Haryana,Instagram page,Needs Fix,
+439,Instagram,Care Pet Groomer 439,Pet Groomer,9622892855,Near main road,Pune,Maharashtra,Instagram page,Submitted,Address incomplete
+440,Instagram,Paws Pet Trainer 440,Pet Trainer,+91 6724695374,NA,Noida,Uttar Pradesh,Justdial page,Verified,
+441,Justdial,Animal Vet Clinic 441,Vet Clinic,9185297234,Opposite park,Bangalore,Karnataka,WhatsApp message,Needs Fix,
+442,Justdial,Trust Vet Clinic 442,Vet Clinic,NA,NA,Gurgaon,Haryana,Maps listing,Ready,Possible duplicate
+443,Community Referral,Paws NGO 443,NGO,9956845250,NA,Bangalore,Karnataka,Justdial page,Needs Fix,
+444,Google Maps,Trust Pet Trainer 444,Pet Trainer,NA,Near main road,Bangalore,Karnataka,Instagram page,Ready,Possible duplicate
+445,Justdial,Happy Pet Groomer 445,Pet Groomer,NA,Near main road,Bhopal,Madhya Pradesh,Maps listing,Needs Review,
+446,Justdial,Pet Vet Hospital 446,Vet Hospital,NA,Opposite park,Bhopal,Madhya Pradesh,Referral,Needs Fix,Phone missing
+447,Instagram,Pet Pet Shop 447,Pet Shop,+91 6045958724,Sector area,Chennai,Tamil Nadu,Maps listing,Ready,Possible duplicate
+448,Google Maps,Paws Vet Hospital 448,Vet Hospital,+91 9078015898,Residential area,Mumbai,Maharashtra,WhatsApp message,Submitted,Address incomplete
+449,Facebook Group,Animal Pet Groomer 449,Pet Groomer,9631407596,NA,Bangalore,Karnataka,Instagram page,Needs Fix,Address incomplete
+450,Community Referral,Care Pet Groomer 450,Pet Groomer,9988778668,Sector area,Chennai,Tamil Nadu,WhatsApp message,Needs Fix,Phone missing
+451,Facebook Group,Pet Pet Trainer 451,Pet Trainer,NA,Sector area,Noida,Uttar Pradesh,Maps listing,Verified,
+452,WhatsApp Submission,Animal Pet Boarding 452,Pet Boarding,9854930287,NA,Bangalore,Karnataka,Justdial page,Ready,Address incomplete
+453,Community Referral,Care Pet Groomer 453,Pet Groomer,NA,Opposite park,Chennai,Tamil Nadu,Maps listing,Needs Review,Phone missing
+454,Google Maps,Happy Vet Clinic 454,Vet Clinic,9962288118,Near main road,Bhopal,Madhya Pradesh,Justdial page,Ready,Address incomplete
+455,Google Maps,Animal Pet Groomer 455,Pet Groomer,+91 7865405259,Opposite park,Indore,Madhya Pradesh,Instagram page,Needs Fix,Phone missing
+456,Google Maps,Pet Pet Boarding 456,Pet Boarding,NA,Sector area,Noida,Uttar Pradesh,Referral,Submitted,Phone missing
+457,Google Maps,Pet Pet Groomer 457,Pet Groomer,NA,Near main road,Jaipur,Rajasthan,Justdial page,Ready,Address incomplete
+458,Google Maps,Care NGO 458,NGO,9650887126,Residential area,Indore,Madhya Pradesh,Referral,Submitted,Phone missing
+459,Instagram,Trust Feeder 459,Feeder,+91 8788178372,Sector area,Delhi,Delhi,Instagram page,Submitted,Phone missing
+460,Instagram,Tails Pet Boarding 460,Pet Boarding,+91 8630909666,NA,Mumbai,Maharashtra,Referral,Submitted,Address incomplete
+461,Justdial,Tails Pet Groomer 461,Pet Groomer,NA,Opposite park,Delhi,Delhi,Justdial page,Needs Fix,Phone missing
+462,Community Referral,Trust Vet Clinic 462,Vet Clinic,NA,Opposite park,Chennai,Tamil Nadu,Maps listing,Needs Fix,Possible duplicate
+463,Community Referral,Tails Pet Groomer 463,Pet Groomer,NA,Near main road,Jaipur,Rajasthan,Referral,Ready,Address incomplete
+464,Facebook Group,Animal Pet Boarding 464,Pet Boarding,9739908044,Near main road,Bangalore,Karnataka,Instagram page,Submitted,Phone missing
+465,WhatsApp Submission,Animal Pet Shop 465,Pet Shop,NA,NA,Pune,Maharashtra,Referral,Submitted,Phone missing
+466,Justdial,Pet Pet Boarding 466,Pet Boarding,9597923785,Opposite park,Bangalore,Karnataka,Maps listing,Needs Review,
+467,Facebook Group,Trust Pet Boarding 467,Pet Boarding,9227937885,NA,Delhi,Delhi,Referral,Ready,Address incomplete
+468,Google Maps,Pet Vet Hospital 468,Vet Hospital,NA,NA,Mumbai,Maharashtra,Justdial page,Needs Fix,Phone missing
+469,Instagram,Happy Feeder 469,Feeder,9914649538,Near main road,Gurgaon,Haryana,Referral,Submitted,Possible duplicate
+470,Community Referral,Animal NGO 470,NGO,NA,NA,Indore,Madhya Pradesh,Referral,Ready,Phone missing
+471,Google Maps,Animal Pet Trainer 471,Pet Trainer,9878115969,Near main road,Noida,Uttar Pradesh,WhatsApp message,Submitted,Address incomplete
+472,WhatsApp Submission,Trust Pet Shop 472,Pet Shop,9313036002,Near main road,Chennai,Tamil Nadu,Referral,Needs Fix,Possible duplicate
+473,Justdial,Care Vet Clinic 473,Vet Clinic,+91 9250088863,Sector area,Jaipur,Rajasthan,WhatsApp message,Needs Review,
+474,Facebook Group,Tails Pet Shop 474,Pet Shop,NA,Residential area,Mumbai,Maharashtra,Maps listing,Ready,Address incomplete
+475,Justdial,Animal NGO 475,NGO,9377194296,Residential area,Bhopal,Madhya Pradesh,Referral,Submitted,
+476,Community Referral,Happy Feeder 476,Feeder,+91 7104590837,Sector area,Pune,Maharashtra,Referral,Needs Review,Phone missing
+477,WhatsApp Submission,Animal Vet Hospital 477,Vet Hospital,9605376035,Residential area,Gurgaon,Haryana,Referral,Submitted,
+478,Facebook Group,Tails Pet Shop 478,Pet Shop,9382306072,Sector area,Pune,Maharashtra,Justdial page,Needs Review,Address incomplete
+479,WhatsApp Submission,Paws Vet Hospital 479,Vet Hospital,+91 9947215798,Residential area,Pune,Maharashtra,Referral,Needs Review,Phone missing
+480,WhatsApp Submission,Happy Feeder 480,Feeder,+91 6281481309,Residential area,Pune,Maharashtra,Instagram page,Needs Fix,
+481,WhatsApp Submission,Happy Pet Shop 481,Pet Shop,9927898930,Sector area,Chennai,Tamil Nadu,Justdial page,Ready,Possible duplicate
+482,Instagram,Animal Pet Trainer 482,Pet Trainer,NA,Sector area,Indore,Madhya Pradesh,WhatsApp message,Needs Fix,Possible duplicate
+483,Justdial,Happy Pet Boarding 483,Pet Boarding,NA,NA,Jaipur,Rajasthan,WhatsApp message,Submitted,Address incomplete
+484,Justdial,Pet Pet Boarding 484,Pet Boarding,9715650972,Opposite park,Indore,Madhya Pradesh,WhatsApp message,Needs Review,Possible duplicate
+485,Community Referral,Tails Feeder 485,Feeder,NA,Opposite park,Bhopal,Madhya Pradesh,Referral,Ready,
+486,Google Maps,Pet Vet Hospital 486,Vet Hospital,NA,Residential area,Jaipur,Rajasthan,Maps listing,Needs Review,Possible duplicate
+487,Justdial,Animal Feeder 487,Feeder,+91 9612571799,NA,Indore,Madhya Pradesh,WhatsApp message,Ready,Possible duplicate
+488,WhatsApp Submission,Paws Pet Boarding 488,Pet Boarding,9998811087,Opposite park,Mumbai,Maharashtra,Instagram page,Needs Fix,Possible duplicate
+489,Google Maps,Animal Pet Shop 489,Pet Shop,+91 9276012731,Sector area,Gurgaon,Haryana,WhatsApp message,Needs Review,Possible duplicate
+490,WhatsApp Submission,Animal NGO 490,NGO,+91 6835810197,Opposite park,Pune,Maharashtra,Instagram page,Ready,Address incomplete
+491,Community Referral,Happy NGO 491,NGO,9825275896,NA,Pune,Maharashtra,WhatsApp message,Submitted,
+492,Google Maps,Happy Vet Hospital 492,Vet Hospital,9497587205,Opposite park,Pune,Maharashtra,WhatsApp message,Needs Fix,Possible duplicate
+493,Justdial,Animal Pet Boarding 493,Pet Boarding,+91 6764311326,Opposite park,Pune,Maharashtra,WhatsApp message,Needs Fix,Possible duplicate
+494,Community Referral,Trust Vet Hospital 494,Vet Hospital,NA,NA,Mumbai,Maharashtra,Justdial page,Ready,Possible duplicate
+495,WhatsApp Submission,Paws Vet Clinic 495,Vet Clinic,NA,Sector area,Noida,Uttar Pradesh,Maps listing,Submitted,Possible duplicate
+496,Instagram,Happy Pet Shop 496,Pet Shop,NA,Sector area,Gurgaon,Haryana,Referral,Needs Fix,
+497,Instagram,Paws Pet Shop 497,Pet Shop,9193658867,NA,Pune,Maharashtra,Justdial page,Submitted,Address incomplete
+498,Google Maps,Happy Feeder 498,Feeder,9736550906,Near main road,Noida,Uttar Pradesh,Maps listing,Needs Fix,Phone missing
+499,Community Referral,Animal Pet Trainer 499,Pet Trainer,9849965294,Opposite park,Jaipur,Rajasthan,WhatsApp message,Verified,Possible duplicate
+500,Instagram,Care Pet Groomer 500,Pet Groomer,9852925455,Opposite park,Bangalore,Karnataka,Instagram page,Verified,Address incomplete
